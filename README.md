@@ -163,4 +163,4 @@ scroll_widths = {
 
 ## License
 
-Add a license of your choice (MIT is a common default for config scripts like this).
+Released under the [MIT License](LICENSE).
